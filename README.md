@@ -6,7 +6,9 @@ The purpose of this repository is get my hands dirty on Machine Learning/Deep Le
 * Exmaple - applied trained model with end user platform using MLKit/CoreML etc. It will contain example projects and step by step tutorials
 
 I will use following frameworks to implement a concept in Mobile platform
-* CoreML, MLKit, Fritz tutorials
+* CoreML 
+* MLKit 
+* Fritz
 
 # Reference
 * [MotLab](https://github.com/motlabs/awesome-ml-demos-with-ios)
